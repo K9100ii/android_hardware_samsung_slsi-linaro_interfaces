@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifeq ($(TARGET_SLSI_VARIANT),linaro)
+ifeq ($(TARGET_SLSI_VARIANT),linaro_13-e850-96)
 ifeq ($(TARGET_SOC_BASE), exynos9830)
 interfaces_dirs := \
 	libGeoTrans/1.0

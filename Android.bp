@@ -1,9 +1,9 @@
 hidl_package_root {
     name: "vendor.samsung_slsi.hardware.epic",
-    path: "hardware/samsung_slsi-linaro/interfaces/epic",
+    path: "hardware/samsung_slsi-linaro_13-e850-96/interfaces/epic",
 }
 
 hidl_package_root {
     name: "vendor.samsung_slsi.hardware.SbwcDecompService",
-    path: "hardware/samsung_slsi-linaro/interfaces/SbwcDecompService",
+    path: "hardware/samsung_slsi-linaro_13-e850-96/interfaces/SbwcDecompService",
 }
